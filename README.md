@@ -78,11 +78,14 @@ A iniciativa do projeto é criar um tabuleiro de xadrez inteligente que possa en
 
 # Galeria
 <div align="space-around">
-    <img src="https://github.com/user-attachments/assets/bb18392b-1729-4629-b62a-7013a4685a66" alt="Descrição da imagem" width="330">
+    <img src="https://github.com/user-attachments/assets/bb18392b-1729-4629-b62a-7013a4685a66" alt="Descrição da imagem" width="33%" height="180">
     <a href="https://youtu.be/XI4wMThfi00" target="_blank">
-      <img src="https://github.com/user-attachments/assets/a1247f05-895e-4993-a8a5-199f966a6fe4" alt="Descrição da imagem" width="330">
+      <img src="https://github.com/user-attachments/assets/a1247f05-895e-4993-a8a5-199f966a6fe4" alt="Descrição da imagem" width="330" height="180">
     </a>
-    <img src="https://github.com/user-attachments/assets/b7874282-196e-400d-b76a-f98fb55f1463" alt="Descrição da imagem" width="330">
+    <img src="https://github.com/user-attachments/assets/b7874282-196e-400d-b76a-f98fb55f1463" alt="Descrição da imagem" width="330" height="180">
+    <img src="https://github.com/user-attachments/assets/24afd7d2-665d-4086-bc9d-ef5212bb6737" alt="Descrição da imagem" width="330" height="180">
+    <img src="https://github.com/user-attachments/assets/5cb3ceac-83cf-48cb-ae3d-453d8d6f6085" alt="Descrição da imagem" width="330" height="180">
+    <img src="https://github.com/user-attachments/assets/4fcc7b75-3186-4702-a32c-413e81eb0998" alt="Descrição da imagem" width="330" height="180">
 </div>
 
 <!-- <a href="https://youtu.be/XI4wMThfi00" target="_blank">
