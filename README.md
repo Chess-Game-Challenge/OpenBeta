@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/654b63a9-83ae-430e-b1c9-25cf421cec2d" alt="logo" width="100%" height="auto" />
+  &nbsp
   <div align="center">
       <span>
         <img src="https://img.shields.io/github/commit-activity/t/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub commit activity">
@@ -8,7 +9,15 @@
         <img src="https://img.shields.io/badge/Esp32-100000?style=flat&logo=esphome&logoColor=FFFFFF&labelColor=05BD27&color=555555" alt="Esp32">
       </span>
     </div>
-  <h1>Membros</h1>
+    
+  <h4>
+    <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
+    <span> · </span>
+    <a href="https://github.com/Chess-Game-Challenge/Code/tree/develop/chessboard">Código</a>
+    <span> · </span>
+    <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
+  </h4>
+  <p>Membros</p>
   <table>
     <tr>
       <td align="center">
@@ -42,7 +51,7 @@
           </sub>
       </td>
   </table>
-  <h1>Colaboradores</h1>
+  <p>Colaboradores</p>
  <table>
     <tr>
       <td align="center">
@@ -66,13 +75,6 @@
 
 # Visão Geral
 A iniciativa do projeto é criar um tabuleiro de xadrez inteligente que possa ensinar a jogadores iniciantes as regras do xadrez. O tabuleiro possui sensores magnéticos para detectar o movimento das peças e luzes para realizar a indicação dos movimentos. Futuramente irá contar com análise de melhores/piores jogadas, detecção de xeque/xeque mate, integração com IA's jogadoras de xadrez, integração com serviços online como chess.com.
-<h4>
-    <a href="https://docs.google.com/presentation/d/16Ngvi2GRAwpd0LD6KQqss5IPHjpMaN3DDrJSTE2mlE8/edit?usp=sharing">Apresentação</a>
-    <span> · </span>
-    <a href="https://github.com/Chess-Game-Challenge/Code/tree/develop/chessboard">Código</a>
-    <span> · </span>
-    <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
-  </h4>
 
 # Apresentação
 <div align="space-between">
