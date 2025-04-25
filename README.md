@@ -78,7 +78,7 @@ A iniciativa do projeto é criar um tabuleiro de xadrez inteligente que possa en
 
 # Galeria
 <div align="space-around">
-    <img src="https://github.com/user-attachments/assets/bb18392b-1729-4629-b62a-7013a4685a66" alt="Descrição da imagem" width="33%" height="180">
+    <img src="https://github.com/user-attachments/assets/bb18392b-1729-4629-b62a-7013a4685a66" alt="Descrição da imagem" width="330" height="180">
     <a href="https://youtu.be/XI4wMThfi00" target="_blank">
       <img src="https://github.com/user-attachments/assets/a1247f05-895e-4993-a8a5-199f966a6fe4" alt="Descrição da imagem" width="330" height="180">
     </a>
