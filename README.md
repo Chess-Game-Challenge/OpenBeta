@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0330907e-e9df-4343-a718-5c0f97de8cc6" alt="logo" width="200" height="auto" />
-  <h1>Smart Chess</h1>
-  <p>Engenharia de Computação Puc Minas - Sistemas Embarcados</p>
+  <img src="https://github.com/user-attachments/assets/654b63a9-83ae-430e-b1c9-25cf421cec2d" alt="logo" width="100%" height="auto" />
+  <div align="center">
+      <span>
+        <img src="https://img.shields.io/github/commit-activity/t/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub commit activity">
+        <img src="https://img.shields.io/github/repo-size/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub repo size">
+        <img src="https://img.shields.io/badge/EspIDF-100000?style=flat&logo=espressif&logoColor=FFFFFF&labelColor=FF0000&color=555555" alt="EspIDF">
+        <img src="https://img.shields.io/badge/Esp32-100000?style=flat&logo=esphome&logoColor=FFFFFF&labelColor=05BD27&color=555555" alt="Esp32">
+      </span>
+    </div>
+  <h1>Membros</h1>
   <table>
     <tr>
       <td align="center">
@@ -35,7 +42,7 @@
           </sub>
       </td>
   </table>
-  <p>Colaboradores</p>
+  <h1>Colaboradores</h1>
  <table>
     <tr>
       <td align="center">
@@ -55,15 +62,6 @@
             </a>
         </td>
   </table>
-
-  <div align="center">
-      <span>
-        <img src="https://img.shields.io/github/commit-activity/t/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub commit activity">
-        <img src="https://img.shields.io/github/repo-size/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub repo size">
-        <img src="https://img.shields.io/badge/EspIDF-100000?style=flat&logo=espressif&logoColor=FFFFFF&labelColor=FF0000&color=555555" alt="EspIDF">
-        <img src="https://img.shields.io/badge/Esp32-100000?style=flat&logo=esphome&logoColor=FFFFFF&labelColor=05BD27&color=555555" alt="Esp32">
-      </span>
-    </div>
 </div>
 
 # Visão Geral
