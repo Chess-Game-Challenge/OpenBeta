@@ -22,7 +22,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/RafaelBrandaoBastos" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/e7ff2c84-481b-4688-89a6-225005fbc9bf" width="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/e7ff2c84-481b-4688-89a6-225005fbc9bf" width="100px;" height="100px;"/><br>
           <sub>
             <b>Rafael Brandão</b>
           </sub>
@@ -30,7 +30,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/Awakened-Redstone" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/c9848538-279d-482b-abf5-80f3c7f7a019" width="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/c9848538-279d-482b-abf5-80f3c7f7a019" width="100px;" height="100px;"/><br>
           <sub>
             <b>Marcos Dias</b>
           </sub>
@@ -38,14 +38,14 @@
       </td>
       <td align="center">
         <a href="https://github.com/MattosPedro" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="100px;" height="100px;"/><br>
           <sub>
             <b>Pedro Lucas</b>
           </sub>
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="100px;" height="100px;"/><br>
           <sub>
             <b>Rodrigo Rocha</b>
           </sub>
@@ -56,7 +56,7 @@
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="100px;" height="100px;"/><br>
           <sub>
             <b>Pedro Carneiro</b>
           </sub>
@@ -64,7 +64,7 @@
       </td>
       <td align="center">
             <a href="https://www.linkedin.com/in/mario-buratto-047b3630/overlay/photo/" title="defina o título do link">
-              <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="100px;"/><br>
+              <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="100px;" height="100px;"/><br>
               <sub>
                 <b>Prof Mario Buratto</b>
               </sub>
