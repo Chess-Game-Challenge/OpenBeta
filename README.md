@@ -53,8 +53,6 @@
   </table>
   <p>Colaboradores</p>
 <div>
-   <div width= "100px"/>
-   <table>
       <tr>
         <td align="center">
           <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
@@ -81,8 +79,6 @@
               </a>  
           </td>
     </table>
-    <div width= "100px"/>
-  </div>
 </div>
 
 # Visão Geral
