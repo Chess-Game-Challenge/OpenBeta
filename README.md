@@ -56,7 +56,7 @@
         <tr>
           <td align="center">
             <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
-              <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="100px;" height="auto"/><br>
+              <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="80px;" height="auto"/><br>
               <sub>
                 <b>Pedro Carneiro</b>
               </sub>
@@ -64,7 +64,7 @@
           </td>
           <td align="center">
                 <a href="https://www.linkedin.com/in/mario-buratto-047b3630/overlay/photo/" title="defina o título do link">
-                  <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="100px;" height="auto"/><br>
+                  <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="80px;" height="auto"/><br>
                   <sub>
                     <b>Prof Mario B.</b>
                   </sub>
@@ -72,7 +72,7 @@
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/ilorivero/overlay/photo/" title="defina o título do link">
-                  <img src="https://github.com/user-attachments/assets/72af42aa-8db5-43c0-836d-ae29ed963c58" width="100px;" height="auto"/><br>
+                  <img src="https://github.com/user-attachments/assets/72af42aa-8db5-43c0-836d-ae29ed963c58" width="80px;" height="auto"/><br>
                   <sub>
                     <b>Prof Ilo Ribeiro</b>
                   </sub>
