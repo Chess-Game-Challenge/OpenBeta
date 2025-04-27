@@ -66,7 +66,7 @@
               <a href="https://www.linkedin.com/in/mario-buratto-047b3630/overlay/photo/" title="defina o título do link">
                 <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="100px;" height="auto"/><br>
                 <sub>
-                  <b>Prof Mario Buratto</b>
+                  <b>Prof Mario B.</b>
                 </sub>
               </a>
           </td>
