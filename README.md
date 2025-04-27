@@ -52,7 +52,7 @@
       </td>
   </table>
   <p>Colaboradores</p>
-<div>
+<table>
       <tr>
         <td align="center">
           <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
