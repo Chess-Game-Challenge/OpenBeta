@@ -52,10 +52,8 @@
       </td>
   </table>
   <p>Colaboradores</p>
- <table>
+ <table max-width="50%">
     <tr>
-      <td width="100px;">
-      </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
           <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="100px;" height="auto"/><br>
@@ -71,8 +69,6 @@
                 <b>Prof Mario Buratto</b>
               </sub>
             </a>
-        </td>
-        <td width="100px;">
         </td>
   </table>
 </div>
