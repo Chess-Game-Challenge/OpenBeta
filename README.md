@@ -38,14 +38,14 @@
       </td>
       <td align="center">
         <a href="https://github.com/MattosPedro" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="auto" height="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="100px" height="100px;"/><br>
           <sub>
             <b>Pedro Lucas</b>
           </sub>
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="auto" height="100px;"/><br>
+          <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="100px" height="100px;"/><br>
           <sub>
             <b>Rodrigo Rocha</b>
           </sub>
