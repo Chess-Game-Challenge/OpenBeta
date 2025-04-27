@@ -72,6 +72,14 @@
                 </sub>
               </a>
           </td>
+         <td align="center">
+              <a href="https://www.linkedin.com/in/ilorivero/overlay/photo/" title="defina o título do link">
+                <img src="https://github.com/user-attachments/assets/72af42aa-8db5-43c0-836d-ae29ed963c58" width="100px;" height="auto"/><br>
+                <sub>
+                  <b>Prof Ilo Ribeiro</b>
+                </sub>
+              </a>  
+          </td>
     </table>
     <div width= "100px"/>
   </div>
