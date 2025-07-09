@@ -3,8 +3,6 @@
   &nbsp
   <div align="center">
       <span>
-        <img src="https://img.shields.io/github/commit-activity/t/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub commit activity">
-        <img src="https://img.shields.io/github/repo-size/Chess-Game-Challenge/Code?style=flat-square&style=for-the-badge" alt="GitHub repo size">
         <img src="https://img.shields.io/badge/EspIDF-100000?style=flat&logo=espressif&logoColor=FFFFFF&labelColor=FF0000&color=555555" alt="EspIDF">
         <img src="https://img.shields.io/badge/Esp32-100000?style=flat&logo=esphome&logoColor=FFFFFF&labelColor=05BD27&color=555555" alt="Esp32">
       </span>
