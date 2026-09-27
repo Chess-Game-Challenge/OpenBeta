@@ -1,152 +1,80 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/654b63a9-83ae-430e-b1c9-25cf421cec2d" alt="logo" width="100%" height="auto" />
-  &nbsp
-  <div align="center">
-      <span>
-        <img src="https://img.shields.io/badge/EspIDF-100000?style=flat&logo=espressif&logoColor=FFFFFF&labelColor=FF0000&color=555555" alt="EspIDF">
-        <img src="https://img.shields.io/badge/Esp32-100000?style=flat&logo=esphome&logoColor=FFFFFF&labelColor=05BD27&color=555555" alt="Esp32">
-      </span>
-    </div>
-</div>
+  <img src="./assets/BannerPrincipal.png" alt="logo" width="100%" height="auto" />
 
-# Visão Geral
-A iniciativa do projeto é criar um tabuleiro de xadrez inteligente que possa ensinar a jogadores iniciantes as regras do xadrez. O tabuleiro possui sensores magnéticos para detectar o movimento das peças e luzes para realizar a indicação dos movimentos. Futuramente irá contar com análise de melhores/piores jogadas, detecção de xeque/xeque mate, integração com IA's jogadoras de xadrez, integração com serviços online como chess.com.
-<!--
-<div align="center">
-  <h4>
-    <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
-    <span> · </span>
-    <a href="https://github.com/Chess-Game-Challenge/Code/tree/develop/chessboard">Código</a>
-    <span> · </span>
-    <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
-  </h4>
+  &nbsp;
   <p>Membros</p>
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/RafaelBrandaoBastos" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/e7ff2c84-481b-4688-89a6-225005fbc9bf" width="100px;" height="auto;"/><br>
-          <sub>
-            <b>Rafael Brandão</b>
-          </sub>
+        <a href="https://github.com/RafaelBrandaoBastos" title="GitHub de Rafael Brandão">
+          <img src="./assets/Rafael.png" width="100px" height="auto"/><br>
+          <sub><b>Rafael Brandão</b></sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Awakened-Redstone" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/c9848538-279d-482b-abf5-80f3c7f7a019" width="100px;" height="auto;"/><br>
-          <sub>
-            <b>Marcos Dias</b>
-          </sub>
+        <a href="https://github.com/Awakened-Redstone" title="GitHub de Marcos Dias">
+          <img src="./assets/Marcos.png" width="100px" height="auto"/><br>
+          <sub><b>Marcos Dias</b></sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/MattosPedro" title="defina o título do link">
-          <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="100px;" height="auto;"/><br>
-          <sub>
-            <b>Pedro Lucas</b>
-          </sub>
+        <a href="https://github.com/MattosPedro" title="GitHub de Pedro Lucas">
+          <img src="./assets/Pedro.png" width="100px" height="auto"/><br>
+          <sub><b>Pedro Lucas</b></sub>
         </a>
       </td>
       <td align="center">
-          <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="100px;" height="auto;"/><br>
-          <sub>
-            <b>Rodrigo Rocha</b>
-          </sub>
+        <img src="./assets/Rodrigo.png" width="100px" height="auto"/><br>
+        <sub><b>Rodrigo Rocha</b></sub>
       </td>
+    </tr>
   </table>
+
   <p>Colaboradores</p>
   <table>
-        <tr>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="defina o título do link">
-              <img src="https://github.com/user-attachments/assets/7d4c71cd-d622-44b3-ab46-a57388260c3c" width="80px;" height="auto"/><br>
-              <sub>
-                <b>Pedro Carneiro</b>
-              </sub>
-            </a>
-          </td>
-          <td align="center">
-                <a href="https://www.linkedin.com/in/mario-buratto-047b3630/overlay/photo/" title="defina o título do link">
-                  <img src="https://github.com/user-attachments/assets/c30b72c2-7701-4a1c-a7c4-93c4b04cc38a" width="80px;" height="auto"/><br>
-                  <sub>
-                    <b>Prof Mario B.</b>
-                  </sub>
-                </a>
-            </td>
-           <td align="center">
-                <a href="https://www.linkedin.com/in/ilorivero/overlay/photo/" title="defina o título do link">
-                  <img src="https://github.com/user-attachments/assets/72af42aa-8db5-43c0-836d-ae29ed963c58" width="80px;" height="auto"/><br>
-                  <sub>
-                    <b>Prof Ilo Ribeiro</b>
-                  </sub>
-                </a>  
-            </td>
-      </table>
- </div>     
-<!-- <a href="https://youtu.be/XI4wMThfi00" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a1247f05-895e-4993-a8a5-199f966a6fe4" alt="Descrição da imagem" width="800">
-</a>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/pedro-carneiro-rabetim-11156222a/" title="LinkedIn de Pedro Carneiro">
+          <img src="./assets/Carneiro.png" width="80px" height="auto"/><br>
+          <sub><b>Pedro Carneiro</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mario-buratto-047b3630/" title="LinkedIn de Mario Buratto">
+          <img src="./assets/Mário.png" width="80px" height="auto"/><br>
+          <sub><b>Prof Mario B.</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/ilorivero/" title="LinkedIn de Ilo Ribeiro">
+          <img src="./assets/Ilo.png" width="80px" height="auto"/><br>
+          <sub><b>Prof Ilo Ribeiro</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<!-- <img src="https://github.com/user-attachments/assets/ef52b3c7-4971-4327-9f3d-addd13a7f058" width="330">
-<img src="https://github.com/user-attachments/assets/d9ae956c-8ee9-4f0f-9193-bd0b2b97cb0a" width="330">
-<img src="https://github.com/user-attachments/assets/93245f9d-81e5-4fd4-9ee9-8ad061a30bd1" width="330"> -->
+  &nbsp;
+  <h4>
+    <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
+    <span> · </span>
+    <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
+  </h4>
+</div>
 
-<!-- ## Colaboradores
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RafaelBrandaoBastos" title="defina o título do link">
-        <img src="https://github.com/user-attachments/assets/e7ff2c84-481b-4688-89a6-225005fbc9bf" width="100px;"/><br>
-        <sub>
-          <b>Rafael Brandão</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Awakened-Redstone" title="defina o título do link">
-        <img src="https://github.com/user-attachments/assets/c9848538-279d-482b-abf5-80f3c7f7a019" width="100px;"/><br>
-        <sub>
-          <b>Marcos Dias</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MattosPedro" title="defina o título do link">
-        <img src="https://github.com/user-attachments/assets/22d53180-88e9-4c3d-8744-bb033067da52" width="100px;"/><br>
-        <sub>
-          <b>Marcos Dias</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-        <img src="https://github.com/user-attachments/assets/a20b6008-a998-4d3b-955d-3df800d87d98" width="100px;"/><br>
-        <sub>
-          <b>Rodrigo Rocha</b>
-        </sub>
-    </td>
-</table> 
--->
-<!--
-# Metodologia
-### Idealização
-<img src="https://github.com/user-attachments/assets/6852b944-b9a4-4086-aef9-5c6347b3b63f" width="500" height="250" >
+<h2>Visão Geral</h2>
+<p>
+A iniciativa do projeto é criar um tabuleiro de xadrez inteligente que possa ensinar a jogadores iniciantes as regras do xadrez. O tabuleiro possui sensores magnéticos para detectar o movimento das peças e luzes para realizar a indicação dos movimentos. Futuramente irá contar com análise de melhores/piores jogadas, detecção de xeque/xeque mate, integração com IA's jogadoras de xadrez, integração com serviços online como chess.com.
+</p>
 
-### Criação do Circuito
-<img src="https://github.com/user-attachments/assets/208778b7-4208-45c6-900f-9a127b1f79cc" width="500" height="250" >
-
-### Modelagem 3d
-<img src="https://github.com/user-attachments/assets/7ed2d225-dea3-44e2-b124-c476f27c843d" width="500" height="250">
-
-### Fazendo a PCB
-<img src="https://github.com/user-attachments/assets/da486c87-bfdd-473f-8f84-2767e0a40435" width="500" height="250">
-
-### Solda
-<img src="https://github.com/user-attachments/assets/a7d73d4d-90b1-44ab-b25b-7e6075c6767f" width="500" height="250">
-
-### Implementação do Hardware
-<img src="https://github.com/user-attachments/assets/9a96afb9-84d9-444f-9917-80c27e56d843" width="500" height="250">
-
-### Desenvolvimento do Software
-<img src="https://github.com/user-attachments/assets/70a2523e-41c8-491f-976e-a8cc29c5506c" width="500" height="250">
--->
+<h2>Galeria</h2>
+<div align="center">
+  <img src="./assets/TabuleiroInicio.png" alt="Tabuleiro no início" width="330" height="180">
+  <a href="https://youtu.be/XI4wMThfi00" target="_blank">
+    <img src="./assets/TabuleiroGameplay.png" alt="Gameplay do tabuleiro" width="330" height="180">
+  </a>
+  <img src="./assets/Esquematico.png" alt="Esquemático" width="330" height="180">
+  <img src="./assets/3d.png" alt="Modelagem 3D" width="330" height="180">
+  <img src="./assets/Furo.png" alt="Furação" width="330" height="180">
+  <img src="./assets/PCB.png" alt="PCB" width="330" height="180">
+</div>
